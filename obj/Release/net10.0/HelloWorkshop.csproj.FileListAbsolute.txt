@@ -1,0 +1,15 @@
+C:\warp\07\warp-lab01-hello-workshop\bin\Release\net10.0\HelloWorkshop.exe
+C:\warp\07\warp-lab01-hello-workshop\bin\Release\net10.0\HelloWorkshop.deps.json
+C:\warp\07\warp-lab01-hello-workshop\bin\Release\net10.0\HelloWorkshop.runtimeconfig.json
+C:\warp\07\warp-lab01-hello-workshop\bin\Release\net10.0\HelloWorkshop.dll
+C:\warp\07\warp-lab01-hello-workshop\bin\Release\net10.0\HelloWorkshop.pdb
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\HelloWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\HelloWorkshop.AssemblyInfoInputs.cache
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\HelloWorkshop.AssemblyInfo.cs
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\HelloWorkshop.csproj.CoreCompileInputs.cache
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\HelloWorkshop.sourcelink.json
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\HelloWorkshop.dll
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\refint\HelloWorkshop.dll
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\HelloWorkshop.pdb
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\HelloWorkshop.genruntimeconfig.cache
+C:\warp\07\warp-lab01-hello-workshop\obj\Release\net10.0\ref\HelloWorkshop.dll
