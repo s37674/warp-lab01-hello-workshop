@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37674\\Desktop\\projekty\\HelloWorkshop\\HelloWorkshop.csproj": {}
+    "C:\\warp\\07\\warp-lab01-hello-workshop\\HelloWorkshop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37674\\Desktop\\projekty\\HelloWorkshop\\HelloWorkshop.csproj": {
+    "C:\\warp\\07\\warp-lab01-hello-workshop\\HelloWorkshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37674\\Desktop\\projekty\\HelloWorkshop\\HelloWorkshop.csproj",
+        "projectUniqueName": "C:\\warp\\07\\warp-lab01-hello-workshop\\HelloWorkshop.csproj",
         "projectName": "HelloWorkshop",
-        "projectPath": "C:\\Users\\s37674\\Desktop\\projekty\\HelloWorkshop\\HelloWorkshop.csproj",
-        "packagesPath": "C:\\Users\\s37674\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37674\\Desktop\\projekty\\HelloWorkshop\\obj\\",
+        "projectPath": "C:\\warp\\07\\warp-lab01-hello-workshop\\HelloWorkshop.csproj",
+        "packagesPath": "C:\\Users\\bma10\\.nuget\\packages\\",
+        "outputPath": "C:\\warp\\07\\warp-lab01-hello-workshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s37674\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bma10\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.404/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
