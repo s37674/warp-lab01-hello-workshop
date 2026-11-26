@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 env:
   DOTNET_VERSION: 10.0.x
@@ -20,6 +23,10 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Check repository structure
+        shell: bash
+        run: bash scripts/check-repository.sh "$PROJECT_PATH"
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
@@ -37,3 +44,15 @@ jobs:
       - name: Run project
         shell: bash
         run: dotnet run --project "$PROJECT_PATH" --configuration Release --no-build
+
+      - name: Publish project
+        shell: bash
+        run: dotnet publish "$PROJECT_PATH" --configuration Release --no-restore --output ./artifacts/app
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-${{ github.sha }}
+          path: ./artifacts/app
+          if-no-files-found: error
+          retention-days: 7
